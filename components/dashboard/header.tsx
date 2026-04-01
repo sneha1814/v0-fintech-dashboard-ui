@@ -23,7 +23,7 @@ export function Header({ onMenuClick }: HeaderProps) {
         <div>
           <h1 className="text-xl font-semibold text-foreground">Dashboard</h1>
           <p className="text-sm text-muted-foreground hidden sm:block">
-            Welcome back, Alex
+            Welcome back, Sneha
           </p>
         </div>
       </div>

@@ -125,8 +125,8 @@ export function Sidebar() {
           <div className="flex items-center gap-3">
             <div className="h-10 w-10 rounded-full bg-gradient-to-br from-primary/60 to-chart-2/60" />
             <div className="flex-1 min-w-0">
-              <p className="text-sm font-medium text-foreground truncate">Alex Chen</p>
-              <p className="text-xs text-muted-foreground truncate">alex@flux.io</p>
+              <p className="text-sm font-medium text-foreground truncate">Sneha Koparde</p>
+              <p className="text-xs text-muted-foreground truncate">sneha@flux.io</p>
             </div>
           </div>
         </div>
